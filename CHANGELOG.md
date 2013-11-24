@@ -1,5 +1,6 @@
 == HEAD
 
+* Switch to using FT FastClick polyfill to remove click delays on browsers with touch (#194)
 * Redesign 404 page (#202)
 * Update to Apache Server Configs 2.1.0
 * Update to Modernizr 2.7.1 (#201)
